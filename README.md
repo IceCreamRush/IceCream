@@ -37,7 +37,7 @@ Since this game was made in 5 days, we think it is important to talk about certa
   - **UI** music.
  
 ### Authors
-Maxime Leguevacques  
+Maxime-Leguevacques  
 Christophe Huang  
 Corentin Boiscotte  
 Maxence Lieval  
